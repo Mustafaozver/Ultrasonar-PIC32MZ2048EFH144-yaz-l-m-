@@ -1,0 +1,36 @@
+build/pic32mz_ef_sk_int_dyn/production/_ext/1179628851/sys_memory_ebi_static.o:  \
+ ../src/system_config/pic32mz_ef_sk_int_dyn/framework/system/memory/ebi/src/sys_memory_ebi_static.c  \
+ ../../../../../../framework/peripheral/ebi/plib_ebi.h  \
+ ../../../../../../framework/peripheral/ebi/processor/ebi_processor.h  \
+ ../../../../../../framework/peripheral/ebi/processor/ebi_p32xxxx.h  \
+ ../../../../../../framework/peripheral/ebi/processor/ebi_p32mz2048efh144.h  \
+ ../../../../../../framework/peripheral/peripheral_common_32bit.h  \
+ ../../../../../../framework/peripheral/peripheral_common.h  \
+ ../../../../../../framework/peripheral/ebi/processor/../templates/ebi_Base_Address_Default.h  \
+ ../../../../../../framework/peripheral/ebi/processor/../templates/ebi_Registers.h  \
+ ../../../../../../framework/peripheral/ebi/processor/../templates/ebi_MemoryCharacteristics_Default.h  \
+ ../../../../../../framework/peripheral/ebi/processor/../templates/ebi_MemoryTimingConfig_Default.h  \
+ ../../../../../../framework/peripheral/ebi/processor/../templates/ebi_ReadyMode_Default.h  \
+ ../../../../../../framework/peripheral/ebi/processor/../templates/ebi_MemoryPaging_Default.h  \
+ ../../../../../../framework/peripheral/ebi/processor/../templates/ebi_PageMode_Default.h  \
+ ../../../../../../framework/peripheral/ebi/processor/../templates/ebi_PageReadTime_Default.h  \
+ ../../../../../../framework/peripheral/ebi/processor/../templates/ebi_DataTurnAroundTime_Default.h  \
+ ../../../../../../framework/peripheral/ebi/processor/../templates/ebi_WritePulseWidth_Default.h  \
+ ../../../../../../framework/peripheral/ebi/processor/../templates/ebi_AddressHoldTime_Default.h  \
+ ../../../../../../framework/peripheral/ebi/processor/../templates/ebi_AddressSetupTime_Default.h  \
+ ../../../../../../framework/peripheral/ebi/processor/../templates/ebi_ReadCycleTime_Default.h  \
+ ../../../../../../framework/peripheral/ebi/processor/../templates/ebi_FlashTiming_Default.h  \
+ ../../../../../../framework/peripheral/ebi/processor/../templates/ebi_StaticMemoryWidthRegister_Default.h  \
+ ../../../../../../framework/peripheral/ebi/processor/../templates/ebi_FlashPowerDownMode_Default.h  \
+ ../../../../../../framework/peripheral/ebi/processor/../templates/ebi_ControlEnable_Default.h  \
+ ../../../../../../framework/peripheral/ebi/processor/../templates/ebi_AddressPinEnableBits_Default.h  \
+ ../../../../../../framework/peripheral/ebi/processor/../templates/ebi_ReadyPin3Config_Default.h  \
+ ../../../../../../framework/peripheral/ebi/processor/../templates/ebi_ReadyPin2Config_Default.h  \
+ ../../../../../../framework/peripheral/ebi/processor/../templates/ebi_ReadyPin1Config_Default.h  \
+ ../../../../../../framework/peripheral/ebi/processor/../templates/ebi_ReadyPinSens_Default.h  \
+ ../../../../../../framework/peripheral/ebi/processor/../templates/ebi_FlashResetPin_Default.h  \
+ ../../../../../../framework/peripheral/ebi/processor/../templates/ebi_WriteOutputControl_Default.h  \
+ ../../../../../../framework/peripheral/ebi/processor/../templates/ebi_ByteSelectPin_Default.h  \
+ ../../../../../../framework/peripheral/ebi/processor/../templates/ebi_ChipSelectEnable_EBIP32_144pin.h  \
+ ../../../../../../framework/peripheral/ebi/processor/../templates/ebi_DataEnable_Default.h  \
+ ../src/system_config/pic32mz_ef_sk_int_dyn/framework/system/memory/ebi/sys_memory_ebi_static.h 
